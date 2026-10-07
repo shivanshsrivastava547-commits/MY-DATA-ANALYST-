@@ -39,8 +39,8 @@ Data-Analytics-Agent/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Arpitbanait/Data-Analytics-Agent.git
-cd Data-Analytics-Agent
+git clone https://github.com/shivanshsrivastava547-commits/MY-DATA-ANALYST-.git
+cd MY-DATA-ANALYST-
 ```
 
 ### 2. Backend
